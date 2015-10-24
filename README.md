@@ -4,7 +4,6 @@ This GitHub repository contains the R code "run_analysis.R" and the R markdown "
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The data used can be found here:
-
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The course project instructs students to do the following:
